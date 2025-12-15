@@ -2,7 +2,7 @@
 
 ### 💻 Encargado de Sistemas y TI | Estratega Tecnológico
 
-Soy un profesional con **experiencia en la gestión integral de sistemas y tecnologías de la información**. Actualmente, lidero el área de TI en **Buses Talca París y Londres**, donde mi rol es clave para la continuidad operativa y la estrategia tecnológica del negocio.
+Actualmente, lidero el área de TI en **Buses Talca París y Londres**, donde mi rol es clave para la continuidad operativa y la estrategia tecnológica del negocio.
 
 ## 🚀 ¿En qué estoy trabajando actualmente?
 
@@ -38,11 +38,3 @@ Aunque mis proyectos son principalmente privados (proyectos de empresa), estas s
 | **Entorno de Desarrollo (IDE)** | Visual Studio Code (VS Code) |
 | **Gestión** | Redes, Ciberseguridad, Infraestructura TI |
 
-## 📫 ¿Cómo contactarme?
-
-Me interesa conectar con otros profesionales y compartir ideas sobre gestión de TI, desarrollo Fullstack y estrategias de optimización.
-
-| Plataforma | Enlace |
-| :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/leopoldo-rodriguez/] |
-| **Correo Electrónico** | [leorodriguez246@gmail.com] |
