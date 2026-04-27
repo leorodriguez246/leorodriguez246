@@ -1,33 +1,23 @@
 # 👋 Hola, soy Leopoldo Rodríguez Bravo
 
-### 💻 Encargado de Sistemas y TI | Estratega Tecnológico
+### 💻 Docente Ingenieria en informatica.
 
-Actualmente, lidero el área de TI en **Buses Talca París y Londres**, donde mi rol es clave para la continuidad operativa y la estrategia tecnológica del negocio.
+Actualmente, estoy en el cargo de Docente en la IP Santo Tomas.
 
-## 🚀 ¿En qué estoy trabajando actualmente?
+## 🚀 ¿En que he trabajado?
 
-Como **Encargado de Sistemas y TI**, mis principales responsabilidades incluyen:
+Como **Encargado de Sistemas y TI**, mis principales responsabilidades han sido:
 
 * **Liderar y gestionar** la infraestructura tecnológica, asegurando su estabilidad y rendimiento.
 * Implementar y monitorear la **ciberseguridad**, protegiendo los activos críticos de la empresa.
 * Coordinar la **integración de soluciones** entre distintas áreas para mejorar y optimizar procesos.
 * Administrar redes, gestionar adquisiciones tecnológicas, realizar auditorías internas y capacitar a usuarios.
 
-Mi enfoque es **estratégico y orientado a la mejora continua**, buscando la optimización de recursos y la comunicación efectiva con equipos multidisciplinarios.
-
-### 🏗️ Proyecto Principal de Desarrollo
-
-Actualmente, me encuentro desarrollando un **Sistema ERP Modular** para la empresa, actuando como desarrollador Fullstack:
-
-| Componente | Tecnologías |
-| :--- | :--- |
-| **Front-end** | React, Tailwind CSS |
-| **Back-end** | NodeJS, ExpressAPI |
-| **Base de Datos** | PostgreSQL |
+Mi enfoque ha sido **estratégico y orientado a la mejora continua**, buscando la optimización de recursos y la comunicación efectiva con equipos multidisciplinarios.
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aunque mis proyectos son principalmente privados (proyectos de empresa), estas son las herramientas y tecnologías con las que trabajo constantemente y en las que me considero **Fullstack**:
+Aunque mis proyectos son principalmente privados (proyectos de empresas), estas son las herramientas y tecnologías con las que trabajo constantemente y en las que me considero **Fullstack**:
 
 | Categoría | Elementos |
 | :--- | :--- |
